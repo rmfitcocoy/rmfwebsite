@@ -1,0 +1,168 @@
+
+---Downloaded files---
+The import files for: Demo content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8080/RMF-Website/rmfwebsite/Archives/Templates/sydney
+Data file = C:\xampp\htdocs\RMF-Website\rmfwebsite\Archives\Templates\sydney/wp-content/themes/sydney/demo-content/demo-content.xml
+Widget file = C:\xampp\htdocs\RMF-Website\rmfwebsite\Archives\Templates\sydney/wp-content/themes/sydney/demo-content/demo-widgets.wie
+Customizer file = C:\xampp\htdocs\RMF-Website\rmfwebsite\Archives\Templates\sydney/wp-content/themes/sydney/demo-content/demo-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "placeholder.png" (Media)
+[ERROR] Failed to import "iphone-550x363" (Media)
+[ERROR] Failed to import "imac-606765_1280" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "emp6" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "urban-438393_1280" (Media)
+[ERROR] Failed to import "girls-591552_640" (Media)
+[ERROR] Failed to import "helicopter-548421_640" (Media)
+[ERROR] Failed to import "lake-484190_640" (Media)
+[ERROR] Failed to import "legs-520604_640" (Media)
+[ERROR] Failed to import "men-521540_640" (Media)
+[ERROR] Failed to import "shimano-501433_640" (Media)
+[ERROR] Failed to import "sky-486846_640" (Media)
+[ERROR] Failed to import "statue-of-liberty-539318_640" (Media)
+[ERROR] Failed to import "woman-546207_640" (Media)
+[ERROR] Failed to import "sun-513848_640" (Media)
+[ERROR] Failed to import "1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "placeholder.png" (Media)
+[ERROR] Failed to import "iphone-550x363" (Media)
+[ERROR] Failed to import "imac-606765_1280" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "emp6" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "urban-438393_1280" (Media)
+[ERROR] Failed to import "girls-591552_640" (Media)
+[ERROR] Failed to import "helicopter-548421_640" (Media)
+[ERROR] Failed to import "lake-484190_640" (Media)
+[ERROR] Failed to import "legs-520604_640" (Media)
+[ERROR] Failed to import "men-521540_640" (Media)
+[ERROR] Failed to import "shimano-501433_640" (Media)
+[ERROR] Failed to import "sky-486846_640" (Media)
+[ERROR] Failed to import "statue-of-liberty-539318_640" (Media)
+[ERROR] Failed to import "woman-546207_640" (Media)
+[ERROR] Failed to import "sun-513848_640" (Media)
+[ERROR] Failed to import "1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "placeholder.png" (Media)
+[ERROR] Failed to import "iphone-550x363" (Media)
+[ERROR] Failed to import "imac-606765_1280" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "emp6" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "urban-438393_1280" (Media)
+[ERROR] Failed to import "girls-591552_640" (Media)
+[ERROR] Failed to import "helicopter-548421_640" (Media)
+[ERROR] Failed to import "lake-484190_640" (Media)
+[ERROR] Failed to import "legs-520604_640" (Media)
+[ERROR] Failed to import "men-521540_640" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "placeholder.png" (Media)
+[ERROR] Failed to import "iphone-550x363" (Media)
+[ERROR] Failed to import "imac-606765_1280" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "emp6" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "urban-438393_1280" (Media)
+[ERROR] Failed to import "girls-591552_640" (Media)
+[ERROR] Failed to import "helicopter-548421_640" (Media)
+[ERROR] Failed to import "lake-484190_640" (Media)
+[ERROR] Failed to import "legs-520604_640" (Media)
+[ERROR] Failed to import "men-521540_640" (Media)
+[ERROR] Failed to import "shimano-501433_640" (Media)
+[ERROR] Failed to import "sky-486846_640" (Media)
+[ERROR] Failed to import "statue-of-liberty-539318_640" (Media)
+[ERROR] Failed to import "woman-546207_640" (Media)
+[ERROR] Failed to import "sun-513848_640" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "placeholder.png" (Media)
+[ERROR] Failed to import "iphone-550x363" (Media)
+[ERROR] Failed to import "imac-606765_1280" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "emp6" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "urban-438393_1280" (Media)
+[ERROR] Failed to import "girls-591552_640" (Media)
+[ERROR] Failed to import "helicopter-548421_640" (Media)
+[ERROR] Failed to import "lake-484190_640" (Media)
+[ERROR] Failed to import "legs-520604_640" (Media)
+[ERROR] Failed to import "men-521540_640" (Media)
+[ERROR] Failed to import "shimano-501433_640" (Media)
+[ERROR] Failed to import "sky-486846_640" (Media)
+[ERROR] Failed to import "statue-of-liberty-539318_640" (Media)
+[ERROR] Failed to import "woman-546207_640" (Media)
+[ERROR] Failed to import "sun-513848_640" (Media)
+[ERROR] Failed to import "1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "placeholder.png" (Media)
+[ERROR] Failed to import "iphone-550x363" (Media)
+[ERROR] Failed to import "imac-606765_1280" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "emp6" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "urban-438393_1280" (Media)
+[ERROR] Failed to import "girls-591552_640" (Media)
+[ERROR] Failed to import "helicopter-548421_640" (Media)
+[ERROR] Failed to import "lake-484190_640" (Media)
+[ERROR] Failed to import "legs-520604_640" (Media)
+[ERROR] Failed to import "men-521540_640" (Media)
+[ERROR] Failed to import "shimano-501433_640" (Media)
+[ERROR] Failed to import "sky-486846_640" (Media)
+[ERROR] Failed to import "statue-of-liberty-539318_640" (Media)
+[ERROR] Failed to import "woman-546207_640" (Media)
+[ERROR] Failed to import "sun-513848_640" (Media)
+[ERROR] Failed to import "1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "placeholder.png" (Media)
+[ERROR] Failed to import "iphone-550x363" (Media)
+[ERROR] Failed to import "imac-606765_1280" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "emp6" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "urban-438393_1280" (Media)
+[ERROR] Failed to import "girls-591552_640" (Media)
+[ERROR] Failed to import "helicopter-548421_640" (Media)
+[ERROR] Failed to import "lake-484190_640" (Media)
+[ERROR] Failed to import "legs-520604_640" (Media)
+[ERROR] Failed to import "men-521540_640" (Media)
+[ERROR] Failed to import "shimano-501433_640" (Media)
+[ERROR] Failed to import "sky-486846_640" (Media)
+[ERROR] Failed to import "statue-of-liberty-539318_640" (Media)
+[ERROR] Failed to import "woman-546207_640" (Media)
+[ERROR] Failed to import "sun-513848_640" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "2" (Media)
+
