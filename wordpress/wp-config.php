@@ -18,7 +18,6 @@ define('DEVELOPER_MODE',FALSE);
  *
  * @package WordPress
  */
-// this is a comment
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
